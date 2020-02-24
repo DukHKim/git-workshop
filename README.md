@@ -11,15 +11,15 @@ You can check if you already have by running:
 git --version
 ```
 
-Also, create an account [here](https://github.com/).
+Also, create an account [here](https://github.com/) if you don't have one already.
 
+Finally, set up SSH on your github account by following these [two](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) [links](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
 #### Windows
-All of the git commands will be done through the `git bash` program.
+All of the git commands will be done through the `git bash` program, so make sure you have that open.
 
 #### Mac
-Open up the terminal app on your machine.
-
+Open up the terminal app! 
 
 ## Bash 
 
@@ -94,6 +94,9 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
 
 ### Git Tutorials
 https://git-scm.com/docs/gittutorial
+
 http://rogerdudler.github.io/git-guide/
+
 https://developer.ibm.com/technologies/web-development/tutorials/d-learn-workings-git
+
 https://www.sbf5.com/~cduan/technical/git/git-1.shtml
