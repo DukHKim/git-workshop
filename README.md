@@ -5,7 +5,11 @@ Learn the basics of git, a popular Version Control System used by many developer
 ## Get Started
 
 ### Installing git
-[Link to install](https://git-scm.com/downloads)
+First things first, install [git!](https://git-scm.com/downloads). 
+You can check if you already have by running:
+```
+git --version
+```
 
 Also, create an account [here](https://github.com/).
 
@@ -17,14 +21,14 @@ All of the git commands will be done through the `git bash` program.
 Open up the terminal app on your machine.
 
 
-### Bash 
+## Bash 
 
-#### Anatomy of a bash command
+### Anatomy of a bash command
 
 `command --options/flags ARGUMENTS`
 
 
-#### Basic Bash Commands
+### Basic Bash Commands
 
 `ls`(*l*i*s*t): Lists the current files and directories
 
@@ -36,37 +40,53 @@ Open up the terminal app on your machine.
 `touch FILE_NAME`: Creates a file with the given name
 
 
-GIT!
-Version control system
-stored as bunch of changes
-basic commands: 
-- pull
-- add
-- commit
-- push
+## What is git?
+
+Git is a popular Version Control System (VCS). In essence, it is nothing more than just a history of changes. 
 
 
-ls (short for list)
-cd (change directory)
+### Definitions
+
+*def* **repository**: All of the data stored inside a project directory, stored in `.git/`.
+
+*def* **commit**: a commit object is a snapshot of code at a given time. It contains file changes, references to other commits, and a SHA1 name.
+
+*def* **branch**: TODO
+
+*def* **staging**: TODO
 
 
+### Basic Commands
 
-Overall Flow
-- Git, VCS intro
-  - Data model
-    - repository
-    - commit object
-    - head
-  - flow of work
-  - branches
-    - MAYBE Pull request? 
-    - 
-- Create personal repository
-- Push change to README
+`git pull`: Shorthand for two commands, `git fetch` and `git merge FETCH_HEAD`, this is how you apply commits from another branch into the current working branch.
 
-- Clone workshop repo
-- Push link to personal repo (familiarity with Markdown, make your own!)
-- MERGE CONFLICT?
+`git add`: Add outstanding changes to staging area in the current branch. Choose which file changes you want to keep.
+
+`git commit`: Turn the staged changes into git commits. Can be seen as documenting and "committing" to the changes you've made. 
+
+`git push`: Update remote branches with local changes. Use this to move commits from your local machine to the remote repository.
+
+`git clone`: Create a local copy of a remote repository
+
+## Workshop Activity
+- Create a personal repository
+    - `git init`
+    - create `README.md` file
+    - `git add README.md`
+    - `git commit -m "First commit!"`
+    - `git remote add origin [GIT_REPOSITORY_URL]`
+    - `git push -u origin master`
+- Branch off of workshop repository
+    - `git clone git@github.com:DukHKim/git-workshop.git`
+    - `git checkout -b BRANCH_NAME`
+    - Mark off attendance, add a link to your remote repository
+    - `git add README.md`
+    - `git commit -m "NAME is here!"`
+    - `git push -u origin BRANCH_NAME`
+    - Merge branch on github
+    
+## Help, I messed up!
+
 
 ## Helpful Links
 
