@@ -30,13 +30,13 @@ Open up the terminal app!
 
 ### Basic Bash Commands
 
-`ls`(*l*i*s*t): Lists the current files and directories
+`ls`(**l**i**s**t): Lists the current files and directories
 
-`cd DIRECTORY`(*c*hange *d*irectory): Changes directory to given directory 
+`cd DIRECTORY`(**c**hange **d**irectory): Changes directory to given directory 
 `.` is an alias for the current directory
 `..` is an alias for the parent directory
 
-`mkdir DIRECTORY_NAME`(*m*a*k*e *dir*ectory): makes a directory with the given path and name. If no path is given, assume current directory.
+`mkdir DIRECTORY_NAME`(**m**a**k**e **dir**ectory): makes a directory with the given path and name. If no path is given, assume current directory.
 `touch FILE_NAME`: Creates a file with the given name
 
 
@@ -51,9 +51,9 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
 
 *def* **commit**: a commit object is a snapshot of code at a given time. It contains file changes, references to other commits, and a SHA1 name.
 
-*def* **branch**: TODO
+*def* **branch**: A series of commits off of a specific point in time (commit) in the master branch.
 
-*def* **staging**: TODO
+*def* **staging**: Preparation area for file changes to be committed.
 
 
 ### Basic Commands
