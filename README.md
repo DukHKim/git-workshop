@@ -5,7 +5,15 @@ Learn the basics of git, a popular Version Control System used by many developer
 ## Get Started
 
 ### Installing git
+
+
 First things first, install [git!](https://git-scm.com/downloads). 
+
+#### Windows
+All of the git commands will be done through the `git bash` program, so make sure you have that open.
+
+#### Mac
+Open up the terminal app! 
 You can check if you already have by running:
 ```
 git --version
@@ -15,11 +23,7 @@ Also, create an account [here](https://github.com/) if you don't have one alread
 
 Finally, set up SSH on your github account by following these [two](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) [links](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
-#### Windows
-All of the git commands will be done through the `git bash` program, so make sure you have that open.
 
-#### Mac
-Open up the terminal app! 
 
 ## Bash 
 
