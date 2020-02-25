@@ -94,7 +94,7 @@ jacob
 [Hello]http://https://github.com/JacShin22/testone
 ethan
 
-julie
+[julie] (https://github.com/juliewang8/Julie-s-Repository.git)
 
 caleb
 https://github.com/calebchung/dukGitWorkshop.git
