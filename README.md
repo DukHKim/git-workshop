@@ -92,7 +92,7 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
 ## Attendance
 jacob
 
-ethan
+ethan [my repository](https://github.com/eyuethanyu/duk-workshop/blob/master/README.md)
 
 julie
 
