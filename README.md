@@ -91,14 +91,19 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
     
 ## Attendance
 jacob
-[Hello]http://https://github.com/JacShin22/testone
+
+[Hello](http://https://github.com/JacShin22/testone)
+
 ethan
 
-[julie] (https://github.com/juliewang8/Julie-s-Repository.git)
+[julie](https://github.com/juliewang8/Julie-s-Repository.git)
 
 caleb
+
 https://github.com/calebchung/dukGitWorkshop.git
+
 hello friends :    ^     )
+
 chris
 
 [carissa](https://github.com/carissamok/first-respos.git)
