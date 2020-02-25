@@ -89,7 +89,7 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
     - `git push -u origin BRANCH_NAME`
     - Merge branch on github
     
-## Help, I messed up!
+## Attendance
 
 
 ## Helpful Links
