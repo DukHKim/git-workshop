@@ -91,11 +91,17 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
     
 ## Attendance
 jacob
+
 ethan
+
 julie
+
 caleb
+
 chris
+
 carissa
+
 
 
 
