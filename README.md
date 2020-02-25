@@ -94,7 +94,7 @@ jacob
 
 ethan
 
-julie
+[julie] (https://github.com/juliewang8/Julie-s-Repository.git)
 
 caleb
 
