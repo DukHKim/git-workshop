@@ -90,17 +90,21 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
     - Merge branch on github
     
 ## Attendance
-jacob
+
 
 ethan [my repository](https://github.com/eyuethanyu/duk-workshop/blob/master/README.md)
 
-julie
+jacob
+[Hello]http://https://github.com/JacShin22/testone
+
+[julie] (https://github.com/juliewang8/Julie-s-Repository.git)
 
 caleb
-
+https://github.com/calebchung/dukGitWorkshop.git
+hello friends :    ^     )
 chris
 
-carissa
+[carissa](https://github.com/carissamok/first-respos.git)
 
 
 
