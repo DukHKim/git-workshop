@@ -115,6 +115,8 @@ https://github.com/bobbyslug/Git-Workshop.git
 
 [john](https://github.com/jsu0205/GitWorkshop)
 
+[Judy](https://northeastern.instructure.com/courses/6819/pages/answers-to-textbook-exercises?module_item_id=144121)
+
 ## Helpful Links
 
 [Markdown Cheat Sheet](https://guides.github.com/features/mastering-markdown/)
