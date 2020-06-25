@@ -7,7 +7,7 @@ Learn the basics of git, a popular Version Control System used by many developer
 ### Installing git
 
 
-First things first, install [git!](https://git-scm.com/downloads). 
+First things first, install [git!](https://git-scm.com/downloads) 
 
 #### Windows
 All of the git commands will be done through the `git bash` program, so make sure you have that open.
@@ -41,6 +41,7 @@ Finally, set up SSH on your github account by following these [two](https://help
 `..` is an alias for the parent directory
 
 `mkdir DIRECTORY_NAME`(**m**a**k**e **dir**ectory): makes a directory with the given path and name. If no path is given, assume current directory.
+
 `touch FILE_NAME`: Creates a file with the given name
 
 
