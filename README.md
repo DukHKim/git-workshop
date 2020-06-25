@@ -74,6 +74,7 @@ Git is a popular Version Control System (VCS). In essence, it is nothing more th
 
 ## Workshop Activity
 - Create a personal repository
+    - `mkdir DIRECTORY_NAME`
     - `git init`
     - create `README.md` file
     - `git add README.md`
